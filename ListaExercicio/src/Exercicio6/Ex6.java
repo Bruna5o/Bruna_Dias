@@ -9,7 +9,7 @@ public class Ex6 {
 		String nome = JOptionPane.showInputDialog("Insira seu nome: ");
 		int idade =Integer.parseInt(JOptionPane.showInputDialog(null, "Insira sua idade: "));
 		
-		
+		 
 		if (idade >= 18) {
 			JOptionPane.showMessageDialog(null, nome+", você possui permissão para tirar carteira de motorista.");
 		}
