@@ -33,7 +33,7 @@ public class Ex7 extends JFrame {
 				} catch (Exception e) {
 					e.printStackTrace();
 				}
-			}
+			} 
 		});
 	}
 

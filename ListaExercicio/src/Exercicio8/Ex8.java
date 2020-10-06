@@ -33,7 +33,7 @@ public class Ex8 extends JFrame {
 				}
 			}
 		});
-	}
+	} 
 
 	/**
 	 * Create the frame.

@@ -30,7 +30,7 @@ public class Ex10 extends JFrame {
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
-				try {
+				try { 
 					Ex10 frame = new Ex10();
 					frame.setVisible(true);
 				} catch (Exception e) {

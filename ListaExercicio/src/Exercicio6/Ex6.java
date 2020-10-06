@@ -17,5 +17,5 @@ public class Ex6 {
 			JOptionPane.showMessageDialog(null,  nome+ "Você não possui permissão para tirar carteira");
 		}
 	}
-
+ 
 }

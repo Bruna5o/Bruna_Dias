@@ -32,7 +32,7 @@ public class Ex9 extends JFrame {
 				}
 			}
 		});
-	}
+	} 
 
 	/**
 	 * Create the frame.
